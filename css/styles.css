@@ -124,3 +124,10 @@ footer {
     height: 32px;
     margin: 10px;
 }
+
+@media(min-width: 576px) {
+
+    html {
+        font-size: 20px;
+    }
+}
